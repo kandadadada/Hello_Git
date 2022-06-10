@@ -1,0 +1,9 @@
+hello!
+mkdir github_test
+cd github_test
+git init
+
+git status
+
+git add Hello.txt
+git status
