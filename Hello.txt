@@ -1,4 +1,4 @@
-hello!
+hello! branch
 mkdir github_test
 cd github_test
 git init
@@ -7,3 +7,13 @@ git status
 
 git add Hello.txt
 git status
+
+git commit -m "add new file"
+
+git remote add origin https://github.com/kandadadada/Hello_Git.git
+
+git branch_test
+
+git branch
+
+git checkout branch_test
